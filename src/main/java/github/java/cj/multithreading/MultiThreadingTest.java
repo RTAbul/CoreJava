@@ -1,4 +1,4 @@
-package github.java.corejava;
+package github.java.cj.multithreading;
 
 public class MultiThreadingTest {
 	
