@@ -12,7 +12,9 @@ public class PrintTable extends Thread{
 				e.printStackTrace();
 			}
 			System.out.println(2*i);
-		}	
+
+		}
+		System.out.println("test");	
 	}
 	
 }
